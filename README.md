@@ -1,6 +1,6 @@
 # ElasticCommerce 프로젝트 별도 분리 메시지 전송 서비스
 
-Spring Boot 기반 **ElasticCommerce Mail & Slack Notification Service**의 주요 기능 정리한 README 예시입니다.
+Spring Boot 기반 **ElasticCommerce Mail & Slack Notification Service**의 주요 기능 정리한 README입니다.
 
 ---
 
