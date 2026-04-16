@@ -7,10 +7,7 @@ Spring Boot 기반 **ElasticCommerce Mail & Slack Notification Service**의 주�
 ## 📖 개요
 
 `NotificationService`는 주문/결제 이벤트 발생 시 고객에게 **이메일**과 **Slack 메시지**로 알림을 보내는 마이크로서비스입니다.  
-- **이벤트 종류**: 주문 완료, 주문 취소, 결제 완료, 그 외 커스텀 이벤트  
-- **알림 채널**:  
-  - 이메일 (JavaMailSender + Reactor → 비동기/논블로킹)  
-  - Slack (WebClient → REST Webhook)
+
 
 ---
 
